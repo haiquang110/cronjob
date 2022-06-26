@@ -32,6 +32,6 @@ node cron
 
 Nhập số giây muốn cron, tối thiểu 2-5s đỡ bị dupp vì mình viết setInterval chứ không phải module node cron.
 
-# Author: Nguyễn Hải Quang
-# Facebook: <a href="https://facebook.com/quang.hai.uda77">https://facebook.com/quang.hai.uda77</a>
-# Zalo: <a href="https://zalo.me/0359917579">https://zalo.me/0359917579</a>
+<h1>Author: Nguyễn Hải Quang</h1>
+<h1>Facebook: <a href="https://facebook.com/quang.hai.uda77">https://facebook.com/quang.hai.uda77</a></h1>
+<h1>Zalo: <a href="https://zalo.me/0359917579">https://zalo.me/0359917579</a></h1>
