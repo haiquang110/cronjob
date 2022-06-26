@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng cronjson bằng nodejs
+# Hướng dẫn sử dụng cronjsob bằng nodejs
 
 # Bước 1:
 Cài đặt nodejs từ <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
