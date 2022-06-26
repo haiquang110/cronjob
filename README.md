@@ -21,8 +21,7 @@ Chạy lệnh
 npm install axios
 ```
 
-# Sau khi cài đặt xong các bước trên thì tiến hành tạo file linkcron.txt trong thư mục cronjob, sau đó thêm Link cron vào.
-<b><span style="color: red;">Lưu ý:</span> Mỗi link 1 dòng</b>
+<b>Sau khi cài đặt xong các bước trên thì tiến hành tạo file linkcron.txt trong thư mục cronjob, sau đó thêm Link cron vào.<span style="color: red;"> Lưu ý:</span> Mỗi link 1 dòng</b>
 
 # Sau khi thêm link cron tiến hành:
 Chạy lệnh
